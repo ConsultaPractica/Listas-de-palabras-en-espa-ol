@@ -5,6 +5,7 @@ No todas las palabras indicadas en desuso en el DRAE fueron añadidas a este lis
 El lemario o listado de palabras completo tiene 1,113,014 de palabras. Tienen además la particularidad de que han sido verificadas con el Corrector Ortográfico para Medicina, también con Word 2016 del Office de Microsoft y eliminadas las las palabras en desuso. Se actualiza este lemario debido a la modificación de las palabras en desuso mencionada en el párrafo anterior. Nombre de archivo "lemario.zip"
 
 Agregamos los siguientes lemarios DRAE actualizados al 2020:
+
 Lemario completo con prefijos, sufijos, género, acepciones duplicadas y palabras en desuso. Es un listado de 91631 líneas. Nombre de archivo "lemario1.zip"
 
 Lemario depurado sin prefijos, ni subfijos,  ni género, ni duplicados y sin palabras en desuso. Es un listado de 86,638 líneas. Nombre del archivo "lemario2.zip"
