@@ -6,6 +6,7 @@ El lemario o listado de palabras completo tiene 1,113,014 de palabras. Tienen ad
 
 Agregamos los siguientes lemarios DRAE actualizados al 2020:
 Lemario completo con prefijos, sufijos, género, acepciones duplicadas y palabras en desuso. Es un listado de 91631 líneas. Nombre de archivo "lemario1.zip"
+
 Lemario depurado sin prefijos, ni subfijos,  ni género, ni duplicados y sin palabras en desuso. Es un listado de 86,638 líneas. Nombre del archivo "lemario2.zip"
   
 Otros listado los encontrará en mi sitio de Internet.
