@@ -16,4 +16,4 @@ https://www.cpimario.com/correctm.html
 
 En la página de "Listados de palabras de utilidad para ortografía"
 
-Todos los listados tienen arreglo en español.
+Todos los listados están en código ASCII y tienen arreglo en español.
